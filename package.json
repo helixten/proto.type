@@ -1,0 +1,14 @@
+{
+    "name": "proto.type",
+    "version": "1.0.0",
+    "description": "A good place to start prototyping",
+    "main": "app.js",
+    "author": "Zubair Lawrence <zubairla@lizardpro.com>",
+    "license": "MIT",
+    "dependencies": {
+        "bower": "*",
+        "grunt": "*",
+        "grunt-wiredep": "*",
+        "node-static": "*"
+    }
+}

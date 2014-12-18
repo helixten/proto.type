@@ -1,0 +1,22 @@
+{
+    "name": "proto.type",
+    "description": "A good place to start prototyping",
+    "version": "1.0.0",
+    "authors": [
+        "Zubair Lawrence <zubairla@lizardpro.com>"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "www/bower_components/",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "angular": "*",
+        "jquery": "*",
+        "bootstrap": "*"
+    }
+}
